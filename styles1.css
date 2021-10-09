@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+    color: #345B63;
+    background-color: #FFEACA;
+}
+.content {
+    background-color: #E6DDC6;
+    width: 200px;
+    border: 15px inset #334257;
+    padding: 50px;
+    margin: 20px;
+    height: 120px;
+  }
+  .cal {
+    background-color: #E6DDC6;
+    width: 640px;
+    border: 15px inset #334257;
+    padding: 50px;
+    margin: 20px;
+    height: 250px; 
+  }
