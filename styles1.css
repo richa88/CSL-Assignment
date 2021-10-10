@@ -4,12 +4,14 @@ body{
     background-color: #FFEACA;
 }
 .content {
+    background: url(div_bg.jpeg);
     background-color: #E6DDC6;
     width: 200px;
     border: 15px inset #334257;
     padding: 50px;
     margin: 20px;
     height: 120px;
+    color: black;
   }
   .cal {
     background-color: #E6DDC6;
